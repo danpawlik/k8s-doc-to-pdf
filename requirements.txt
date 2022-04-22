@@ -16,7 +16,7 @@ Pillow==9.0.1
 progress==1.4
 pycparser==2.19
 Pygments==2.4.0
-PyPDF2==1.26.0
+PyPDF2==1.27.5
 Pyphen==0.9.5
 pyyaml>=4.2b1
 requests==2.21.0
