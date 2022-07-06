@@ -9,7 +9,7 @@ defusedxml==0.5.0
 fancycompleter==0.8
 html5lib==1.0.1
 idna==2.8
-lxml==4.2.5
+lxml==4.9.1
 pdbpp==0.10.0
 pdfkit==0.6.1
 Pillow==9.0.1
